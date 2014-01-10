@@ -99,3 +99,11 @@ body {
     padding-right: 0;
   }
 }
+
+.contact-us {
+        max-width: 800px;
+        padding: 20px 30px;
+        margin: 0 auto 20px;
+        background-color: #fff;
+		border-radius: 8px;
+}	
